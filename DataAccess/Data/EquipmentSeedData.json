@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Name": "Equipment1",
+    "Height": 12.45,
+    "Weight": 50,
+    "Price": 500
+  },
+  {
+    "Name": "Equipment2",
+    "Height": 22.45,
+    "Weight": 51,
+    "Price": 540
+  },
+  {
+    "Name": "Equipment3",
+    "Height": 2.45,
+    "Weight": 531,
+    "Price": 10
+  },
+  {
+    "Name": "Equipment4",
+    "Height": 14,
+    "Weight": 22.6,
+    "Price": 41
+  },
+  {
+    "Name": "Equipment5",
+    "Height": 30,
+    "Weight": 30,
+    "Price": 30
+  },
+  {
+    "Name": "Equipment6",
+    "Height": 56.98,
+    "Weight": 56,
+    "Price": 780
+  },
+  {
+    "Name": "Equipment7",
+    "Height": 321,
+    "Weight": 10,
+    "Price": 6.90
+  }
+]

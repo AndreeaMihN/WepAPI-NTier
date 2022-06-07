@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	<RootNamespace>A2Mac1.Costino.Shared</RootNamespace>
+	<AssemblyName>A2Mac1.Costino.Shared</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Constants\**" />
+    <Compile Remove="DataTransferObjects\**" />
+    <Compile Remove="Enums\**" />
+    <EmbeddedResource Remove="Constants\**" />
+    <EmbeddedResource Remove="DataTransferObjects\**" />
+    <EmbeddedResource Remove="Enums\**" />
+    <None Remove="Constants\**" />
+    <None Remove="DataTransferObjects\**" />
+    <None Remove="Enums\**" />
+  </ItemGroup>
+
+</Project>
